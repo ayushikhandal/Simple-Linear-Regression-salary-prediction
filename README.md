@@ -1,0 +1,1 @@
+# Simple-Linear-Regression-salary-prediction
